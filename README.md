@@ -11,5 +11,6 @@ Covers:
 
 ```sh
   └── App.js ** Main file
+```
 
 ![GithubUserGrabber-ReactNative](assets/GithubUserGrabber.png)
