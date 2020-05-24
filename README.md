@@ -1,7 +1,7 @@
 # Github User Grabeer - React Native
 React Native app that fetches users' profile info from GitHub API
 
-![GithubUserGrabber-ReactNative](assets/GithubUserGrabber.png =576x)
+![GithubUserGrabber-ReactNative](assets/GithubUserGrabber.png)
 
 Covers:
 * Multiscreens
