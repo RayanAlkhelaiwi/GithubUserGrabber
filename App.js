@@ -75,7 +75,7 @@ const App: () => React$Node = () => {
         />
         <LinearGradient
           colors = {
-            ['#34d058', '#28a745'] //Original Gradient colors: # & #
+            ['#34d058', '#28a745'] //Original Gradient colors: #34d058 & #28a745 (From Github's New/Clone-or-download button)
           }
           style={styles.linearGradient}>
           <Text style={styles.button}>Lookup</Text>
