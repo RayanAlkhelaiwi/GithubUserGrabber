@@ -67,7 +67,7 @@ const App: () => React$Node = () => {
         </Text>
         <TextInput
           style={styles.textInput}
-          placeholder="Enter username..."
+          placeholder="e.g. RayanAlkhelaiwi"
           placeholderTextColor="#eff3f6"
           onKeyPresss={handleKeyPress}
           // defaultValue={this.state.username}
