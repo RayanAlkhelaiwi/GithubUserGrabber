@@ -44,8 +44,8 @@ def flipper_post_install(installer)
   end
 end
 
-target 'ReactNativeCalculatorApp' do
-  # Pods for ReactNativeCalculatorApp
+target 'ReactNativeGithubUserGrabber' do
+  # Pods for ReactNativeGithubUserGrabber
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -79,7 +79,7 @@ target 'ReactNativeCalculatorApp' do
 
   pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
 
-  target 'ReactNativeCalculatorAppTests' do
+  target 'ReactNativeGithubUserGrabberTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -96,10 +96,10 @@ target 'ReactNativeCalculatorApp' do
   end
 end
 
-target 'ReactNativeCalculatorApp-tvOS' do
-  # Pods for ReactNativeCalculatorApp-tvOS
+target 'ReactNativeGithubUserGrabber-tvOS' do
+  # Pods for ReactNativeGithubUserGrabber-tvOS
 
-  target 'ReactNativeCalculatorApp-tvOSTests' do
+  target 'ReactNativeGithubUserGrabber-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
