@@ -9,7 +9,10 @@ Covers:
 * State Management using this/super(props) - w/ Option to use Redux
 * Integrate 3rd Party API (GitHub's) using fetch() - w/ Option to use axios (Since both are promise-based)
 
-## Project Structure
+## Singed APK File
+Download the signed APK file [here](https://github.com/RayanAlkhelaiwi/GithubUserGrabber-ReactNative/raw/master/android/app/build/outputs/apk/release/app-release.apk)
+
+### Project Structure
 
 ```sh
   ├── README.md
