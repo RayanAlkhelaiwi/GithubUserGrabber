@@ -1,6 +1,6 @@
 # Github User Grabber - React Native
 
-React Native app that fetches users' profile info from GitHub API
+React Native app that fetches users' profile info, via user handler, from GitHub API
 
 Covers:
 
@@ -20,7 +20,6 @@ Covers:
     └── userFetchedInfo.js ** Results activity with fetched info about the user
 ```
 
-![GithubUserGrabber-ReactNative](assets/userGrabberActivity.png)
-![GithubUserGrabber-ReactNative](assets/userFetchedInfoActivity.png)
-![GithubUserGrabber-ReactNative](assets/FormValidation.png)
-![GithubUserGrabber-ReactNative](assets/NoFoundHandler.png)
+Initial Activity  |  Fetch Lookup Results  |  Form Validation  |  Error Handling
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![GithubUserGrabber-ReactNative](assets/userGrabberActivity.png)  |  ![GithubUserGrabber-ReactNative](assets/userFetchedInfoActivity.png)  |  ![GithubUserGrabber-ReactNative](assets/FormValidation.png)  |  ![GithubUserGrabber-ReactNative](assets/NoFoundHandler.png)
