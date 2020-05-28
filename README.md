@@ -1,6 +1,6 @@
 # Github User Grabber - React Native
 
-React Native app that fetches users' profile info, via their user handler, from GitHub API
+React Native app that fetches users' profile info, via user handler, from GitHub API
 
 Covers:
 
