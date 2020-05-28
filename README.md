@@ -8,6 +8,7 @@ Covers:
 * Third Party module for better UI using [react-native-linear-gradient](https://www.npmjs.com/package/react-native-linear-gradient "react-native-linear-gradient")
 * State Management using this/super(props) - w/ Option to use Redux
 * Integrate 3rd Party API (GitHub's) using fetch() - w/ Option to use axios (Since both are promise-based)
+* Basic Unit Testing using Jest
 
 ## Singed APK File
 Download the signed APK file [here](https://github.com/RayanAlkhelaiwi/GithubUserGrabber-ReactNative/raw/master/android/app/build/outputs/apk/release/app-release.apk)
