@@ -12,7 +12,7 @@ Covers:
 ## Singed APK File
 Download the signed APK file [here](https://github.com/RayanAlkhelaiwi/GithubUserGrabber-ReactNative/raw/master/android/app/build/outputs/apk/release/app-release.apk)
 
-### Project Structure
+## Project Structure
 
 ```sh
   ├── README.md
