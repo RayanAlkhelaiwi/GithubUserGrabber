@@ -24,6 +24,6 @@ Download the signed APK file [here](https://github.com/RayanAlkhelaiwi/GithubUse
     └── userFetchedInfo.js ** Results activity with fetched info about the user
 ```
 
-Initial Activity  |  Fetch Lookup Results  |  Form Validation  |  Error Handling
+Initial Activity  |  Fetch User Info  |  Form Validation  |  Error Handling
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![GithubUserGrabber-ReactNative](assets/userGrabberActivity.png)  |  ![GithubUserGrabber-ReactNative](assets/userFetchedInfoActivity.png)  |  ![GithubUserGrabber-ReactNative](assets/FormValidation.png)  |  ![GithubUserGrabber-ReactNative](assets/NoFoundHandler.png)
