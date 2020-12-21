@@ -9,7 +9,6 @@ Covers:
 - [x] State Management using this/super(props) - w/ Option to use [Redux](https://redux.js.org/)
 - [x] Integrate 3rd Party API (GitHub's) using fetch() - w/ Option to use [axios](https://github.com/axios/axios) (Since both are promise-based)
 - [x] Basic Unit Testing using [Jest](https://jestjs.io/)
-- [ ] Dockerize the React Native App and deploy it to [AWS Kubernetes Engine (EKS)](https://aws.amazon.com/eks/) - In Progress...
 
 ## Singed APK File
 * Download the signed APK file [here](https://github.com/RayanAlkhelaiwi/GithubUserGrabber-ReactNative/raw/master/android/app/build/outputs/apk/release/app-release.apk)
