@@ -1,4 +1,0 @@
-#Thu May 28 06:09:14 AST 2020
-base.0=/Users/rayanalkhelaiwi/Dropbox/Development/Projects/WebProjects/react_native/ReactNativeUserGrabber/ReactNativeGithubUserGrabber/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
