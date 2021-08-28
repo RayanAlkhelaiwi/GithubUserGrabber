@@ -374,3 +374,5 @@ node_modules
 .vscode
 android
 ios
+ios/
+android/
